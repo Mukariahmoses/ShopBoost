@@ -1,0 +1,11 @@
+h1{
+    color: blue;
+text-align: center;
+background-color: antiquewhite;
+    line-height: 100px;
+    text-shadow: 12px 4px 12px #ff00ff;
+    font-size: 80px;
+}
+h1:hover{
+    background-color: aqua;
+}

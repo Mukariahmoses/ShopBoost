@@ -1,0 +1,22 @@
+h1{
+    color: #ffffff;
+    text-align: center;
+    font-size: 80px;
+    font-weight: bolder;
+    background-color: black;
+    text-shadow: 10px 4px 10px #1228b8;
+    text-decoration-line: underline;
+}
+img{
+    height: 200px;
+    width: 300px;
+}
+img:hover{
+    opacity: 0.8;
+}
+#payment{
+     background-color: #ff00ff;
+    color: white;
+    margin-left: 20px;
+    padding: 30px;
+}
